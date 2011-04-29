@@ -9,6 +9,10 @@ import java.util.Random;
 import org.junit.Before;
 import org.junit.Test;
 
+/**
+ * @author Oscar Salguero
+ *
+ */
 public class MergeSortTest {
 
 	private int[] numbers;

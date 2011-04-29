@@ -1,5 +1,9 @@
 package com.oscarsalguero.examples.hastable;
 
+/**
+ * @author Oscar Salguero
+ *
+ */
 public class HashMap {
     private final static int TABLE_SIZE = 128;
 

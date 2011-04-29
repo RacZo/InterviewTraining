@@ -1,5 +1,9 @@
 package com.oscarsalguero.examples.various;
 
+/**
+ * @author Oscar Salguero
+ *
+ */
 public class iToA {
 	
 	/* convert an integer into a string representation.

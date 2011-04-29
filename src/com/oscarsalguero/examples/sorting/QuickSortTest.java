@@ -11,7 +11,7 @@ import junit.framework.TestCase;
 import org.junit.Test;
 
 /**
- * @author RacZo
+ * @author Oscar Salguero
  *
  */
 public class QuickSortTest extends TestCase {

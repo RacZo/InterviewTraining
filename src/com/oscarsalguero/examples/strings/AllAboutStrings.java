@@ -1,5 +1,9 @@
 package com.oscarsalguero.examples.strings;
 
+/**
+ * @author Oscar Salguero
+ *
+ */
 public class AllAboutStrings {
 	
 	public AllAboutStrings(){

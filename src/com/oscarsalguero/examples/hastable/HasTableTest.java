@@ -4,7 +4,7 @@
 package com.oscarsalguero.examples.hastable;
 
 /**
- * @author RacZo
+ * @author Oscar Salguero
  *
  */
 public class HasTableTest {

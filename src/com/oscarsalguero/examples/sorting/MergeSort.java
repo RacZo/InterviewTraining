@@ -4,7 +4,7 @@
 package com.oscarsalguero.examples.sorting;
 
 /**
- * @author RacZo
+ * @author Oscar Salguero
  *
  */
 public class MergeSort {

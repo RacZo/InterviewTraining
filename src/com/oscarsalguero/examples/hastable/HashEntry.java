@@ -1,5 +1,9 @@
 package com.oscarsalguero.examples.hastable;
 
+/**
+ * @author Oscar Salguero
+ *
+ */
 public class HashEntry {
 	
     private int key;

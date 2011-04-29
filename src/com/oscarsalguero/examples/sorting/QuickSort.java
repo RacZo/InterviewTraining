@@ -4,7 +4,7 @@
 package com.oscarsalguero.examples.sorting;
 
 /**
- * @author Oscar Salguero (RacZo)
+ * @author Oscar Salguero
  *
  */
 public class QuickSort {

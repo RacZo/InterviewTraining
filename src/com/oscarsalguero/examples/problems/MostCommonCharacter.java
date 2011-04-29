@@ -3,6 +3,10 @@ package com.oscarsalguero.examples.problems;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * @author Oscar Salguero
+ *
+ */
 public class MostCommonCharacter {
 	
 	
