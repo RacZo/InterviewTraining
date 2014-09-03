@@ -3,11 +3,19 @@ package com.oscarsalguero.examples.cards;
 public class Card {
 	
 	public enum Color {
-	    BLACK, RED
-	}
+	    BLACK(1), RED(2);
+	    private int value;
+        private Color(int value) {
+        	this.value = value;
+        }
+    }
 	
 	public enum Type {
-	    DIAMONDS, HEARTS, CLUBS, SPADES
+	    DIAMONDS(1), HEARTS(2), CLUBS(3), SPADES(4);
+	    private int value;
+        private Type(int value) {
+        	this.value = value;
+        }
 	}
 	
 	private int color;
