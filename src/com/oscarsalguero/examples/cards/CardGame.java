@@ -7,8 +7,9 @@ import java.util.Random;
 public class CardGame {
 	
 	public static void play(){
-		List<Card> input = new LinkedList<Card>(); 
-		input = shuffle(input);
+		List<Card> cardList = new LinkedList<Card>(); 
+		// Fill your list with Cards...
+		cardList = shuffle(cardList);
 	}
 	
 	public static List<Card> shuffle(List<Card> originalList){
