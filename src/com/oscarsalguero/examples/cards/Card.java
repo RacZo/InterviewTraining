@@ -1,14 +1,14 @@
 package com.oscarsalguero.examples.cards;
 
 public class Card {
-
-	private static final int COLOR_RED = 1;
-	private static final int COLOR_BLACK = 2;
 	
-	private static final int TYPE_DIAMOND = 1;
-	private static final int TYPE_HEART = 2;
-	private static final int TYPE_CLUB = 3;
-	private static final int TYPE_SPADE = 4;
+	public enum Color {
+	    BLACK, RED
+	}
+	
+	public enum Type {
+	    DIAMONDS, HEARTS, CLUBS, SPADES
+	}
 	
 	private int color;
 	private String value;
